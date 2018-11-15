@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "325723512711",
+    "firebase_url": "https://checkout-797f2.firebaseio.com",
+    "project_id": "checkout-797f2",
+    "storage_bucket": "checkout-797f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325723512711:android:9792c0412e787914",
+        "android_client_info": {
+          "package_name": "aouyen.bacem.checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325723512711-gpr27uh0mh8nlqafip8ti7p1qu9245jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aouyen.bacem.checkout",
+            "certificate_hash": "174f5d0c6bd9a8263f113250e9d57f51cd351b40"
+          }
+        },
+        {
+          "client_id": "325723512711-vhlfalq1h0m39c264g2tha60qbg0kcv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aouyen.bacem.checkout",
+            "certificate_hash": "b6a4d6246b20c3b284a31ef2c6ec29ad4c70cd25"
+          }
+        },
+        {
+          "client_id": "325723512711-1lh4fft61ism7g7bcfja8rjek1gainhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp32qWqeB_T5TMaocTW4XvLClbU3A1p_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325723512711-1lh4fft61ism7g7bcfja8rjek1gainhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
